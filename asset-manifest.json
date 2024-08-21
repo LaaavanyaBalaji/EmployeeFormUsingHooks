@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EmployeeFormUsingHooks/static/css/main.31d19188.css",
+    "main.js": "/EmployeeFormUsingHooks/static/js/main.cd2de993.js",
+    "index.html": "/EmployeeFormUsingHooks/index.html",
+    "main.31d19188.css.map": "/EmployeeFormUsingHooks/static/css/main.31d19188.css.map",
+    "main.cd2de993.js.map": "/EmployeeFormUsingHooks/static/js/main.cd2de993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d19188.css",
+    "static/js/main.cd2de993.js"
+  ]
+}
